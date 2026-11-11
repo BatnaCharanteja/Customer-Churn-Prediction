@@ -1,0 +1,13 @@
+Logistic Regression:
+  Accuracy:  0.6908
+  Precision: 0.4632
+  Recall:    0.7084
+  F1-Score:  0.5602
+
+Random Forest:
+  Accuracy:  0.6894
+  Precision: 0.4591
+  Recall:    0.6598
+  F1-Score:  0.5414
+
+Chosen Model: Logistic Regression
